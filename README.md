@@ -1,1 +1,20 @@
 # personalised-investment-risk-calculator
+
+
+## Overview
+This project is a Python-based investment risk and decision simulator designed to match the user to a type of investment, given uncertainty, inflation, and personality.
+
+
+
+## Key Features
+- Monte Carlo simulation with Student’s t-distribution to model market crashes
+- Inflation-adjusted (real) return analysis
+- Risk metrics including probability of loss, maximum drawdown, and Sharpe ratio
+- Goal-based evaluation (probability of meeting user-defined targets)
+- Personalized risk capacity scoring using financial information
+- Basic machine learning  (K-means clustering and euclidean distances) for risk profiling
+
+
+## How to Run
+1. Install Python 3.9+
+2. Install required libraries in the code:
